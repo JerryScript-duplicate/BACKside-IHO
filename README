@@ -1,0 +1,14 @@
+This is the binary distribution of BACKside-IHO ROM.
+Built from the inferiorhumanorgans repository for the Optimus V.
+Thanks to Alex and all the rest of the IHO dev team,
+as well as to AOSP, CyanogenMod, and all Optimus V devs!
+
+Download to your sdcard
+Download gapps to your sdcard
+Boot into recovery
+Wipe cache/dalvik cache
+  (if comming from a non CM7 ROM,
+   format boot, system, data, & cache)
+Flash the BACKside-IHO zip file
+Flash the gapps zip file
+Reboot, be patient, profit!
